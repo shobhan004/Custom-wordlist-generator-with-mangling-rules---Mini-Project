@@ -1,0 +1,18 @@
+=== Dictionary Attack Report ===
+Wordlist size      : 6338 candidates
+Target hashes      : 10
+Cracked            : 6 (60.0%)
+Time taken         : 0.0125 seconds
+
+  [md5] aeef78208162e12ed9c7f3fb4e6253e5  =>  'tommy123'  (OK)
+  [sha1] 2122318238d2c1f1c77917aa02218244e4b7ee26  =>  'tommy123'  (OK)
+  [md5] 0d1c90320eaafaa97569cba2065ece2e  =>  'Priya1408'  (OK)
+  [sha1] 01aecaabff6a046fd4269a75e70b2282715f3a12  =>  'Priya1408'  (OK)
+  [md5] 8e93b6aa61524e06eff59b5fa5452e0b  =>  'Rohan2001'  (OK)
+  [sha1] 1d7c6d1885254bfe23fe197d746eb3c03454f7a7  =>  'Rohan2001'  (OK)
+
+Hashes NOT cracked by this wordlist:
+  [md5] 9b60ea05d4e7771f8b86cee7f2f74cec
+  [sha1] 19ac0074d11ba275b57d6c62723a6c0b4e8f8760
+  [md5] e067dcd4c94ea7dbcc94f2e6ebd8359a
+  [sha1] 1296527e9449ada9f55503a636df9bcf20b5c796
